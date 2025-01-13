@@ -17,3 +17,37 @@ Internships from all over the World
 - [iijlab](https://cfp.iijlab.net/conferences/internship2025/) | 1 Feb
 
 - [HKUST](https://join.hkust.edu.hk/applyugvisiting)
+
+
+
+# Online Portals for Internships/Jobs
+
+## [LinkedIn Carrier](https://careers.linkedin.com/apm?selectedFilter=all)
+
+## [Google Carrier](https://www.google.com/about/careers/applications/)
+
+## [Job Searcher](https://jobsearcher.com/)
+
+## [Microsoft Carrier](https://jobs.careers.microsoft.com/global/en/search)
+
+## [PayPal Carrier](https://careers.pypl.com/home/)
+
+## [Lensa](https://lensa.com/)
+
+## [Goodwall IO](https://www.goodwall.io/)
+
+## [Disney Carrier](https://jobs.disneycareers.com/)
+
+## [Intel](https://jobs.intel.com/en)
+
+## [WayUP](https://www.wayup.com/)
+
+## [HBO](https://careers.wbd.com/hbo-jobs)
+
+## [Smart Recruiters](https://jobs.smartrecruiters.com/)
+
+## [Cisco](https://jobs.cisco.com/)
+
+## [Twitter/X](https://careers.x.com/en/university)
+
+## [JobMate](https://entryleveljobs.me/)
