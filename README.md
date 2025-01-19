@@ -22,6 +22,8 @@ Internships from all over the World
 
 # Online Portals for Internships/Jobs
 
+## [Meet Academy](https://meetacademy.in/)
+
 ## [LinkedIn Carrier](https://careers.linkedin.com/apm?selectedFilter=all)
 
 ## [Google Carrier](https://www.google.com/about/careers/applications/)
