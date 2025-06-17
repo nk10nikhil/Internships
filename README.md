@@ -1,24 +1,31 @@
 ### Government Jobs
 
-| ✅ | Job Name | Application Dates | Exam Dates | Short Notes |
-|----|----------|-------------------|-------------|--------------|
-| [ ] | UPSC (CSE, ESE, CDS, CAPF) |  |  |  |
+| ✅ | Exam Name | Application Dates | Exam Dates | Short Notes |
+|----|-----------|-------------------|-------------|--------------|
+| [ ] | CDS |  |  |  |
+| [ ] | AFCAT |  |  |  |
+| [ ] | CAPF |  |  |  |
+| [ ] | ICG |  |  |  |
+| [ ] | SSC Tech |  |  |  |
+| [ ] | TGC |  |  |  |
+| [ ] | UPSC CSE |  |  |  |
 | [ ] | RBI Grade A & B |  |  |  |
 | [ ] | Railway Exams |  |  |  |
 | [ ] | IRDAI Exam |  |  |  |
 | [ ] | LIC AAO Exam |  |  |  |
 | [ ] | IBPS SO, SBI PO |  |  |  |
-| [ ] | Bank Exam |  |  |  |
+| [ ] | Bank SO |  |  |  |
 | [ ] | DRDO SET, DST, CEPTAM |  |  |  |
 | [ ] | TRAI, BSNL, MTNL, C-DOT, DoT, TCIL, Digital India Corporation |  |  |  |
 | [ ] | BSNL JTO |  |  |  |
-| [ ] | AFCAT |  |  |  |
 | [ ] | SSC CGL |  |  |  |
-| [ ] | STATE PSC |  |  |  |
+| [ ] | SSC |  |  |  |
+| [ ] | STATE PCS |  |  |  |
 | [ ] | ISRO Internships |  |  |  |
 | [ ] | ISRO ICRB |  |  |  |
 | [ ] | NIC Exam |  |  |  |
 | [ ] | BEL |  |  |  |
+| [ ] | IRCTC |  |  |  |
 | [ ] | FCI |  |  |  |
 | [ ] | RRB |  |  |  |
 | [ ] | UPPCL |  |  |  |
@@ -26,9 +33,20 @@
 | [ ] | HAL |  |  |  |
 | [ ] | DDA |  |  |  |
 | [ ] | NPCIL |  |  |  |
+| [ ] | AAI |  |  |  |
 | [ ] | AIR |  |  |  |
 | [ ] | CBT |  |  |  |
 | [ ] | State Police IT Wing |  |  |  |
-
-### Defence Jobs
-| [ ] | CDS |  |  |  |
+| [ ] | PSUs |  |  |  |
+| [ ] | SSC CGL |  |  |  |
+| [ ] | Eng Jobs |  |  |  |
+| [ ] | DRDO |  |  |  |
+| [ ] | ISRO |  |  |  |
+| [ ] | BARC |  |  |  |
+| [ ] | NIELIT |  |  |  |
+| [ ] | CBI |  |  |  |
+| [ ] | IB |  |  |  |
+| [ ] | NIA |  |  |  |
+| [ ] | C-DAC |  |  |  |
+| [ ] | ECIL |  |  |  |
+| [ ] | Name_Of_Exam | Application_Date | Exam_Date | Short_Note |
