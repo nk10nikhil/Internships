@@ -6,14 +6,14 @@
 | ISI for M.Tech | March |
 | IIT-JAM for MS | Oct |
 | CAT for MBA (FMS Delhi) | Sept |
-|-----------|-------------------|
+| XXXXXXXXXXXXXXXXXXXX | XXXXXXXXXX |
 | CDS | May & Dec |
 | AFCAT | June & Dec |
 | CAPF | March |
 | ICG CGCAT | Dec |
 | SSC Tech |  |
 | TGC |  |
-|-----------|-------------------|
+| XXXXXXXXXXXXXXXXXXXX | XXXXXXXXXX |
 | UPSC CSE |  |
 | RBI Grade A & B |  |
 | Railway Exams |  |
